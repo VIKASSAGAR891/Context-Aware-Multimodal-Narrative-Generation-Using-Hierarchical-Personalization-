@@ -189,4 +189,4 @@ Vikas Narlakanti
 ## License
 This project is provided for academic and research purposes only.
 
-Parts of this work are based on a published research paper. Due to potential copyright and publication policies, this repository is intended strictly for educational demonstration and non-commercial use.
+Parts of this work are based on our published research paper titled "Context-Aware Multimodal Narrative Generation Using Hierarchical Personalization in Large Language Models". Due to potential copyright and publication policies, this repository is intended strictly for educational demonstration and non-commercial use.
